@@ -1,0 +1,9 @@
+configuration {
+	modi: "window,run,drun";
+	font: "FiraCode Nerd Mono 10";
+	drun-display-format: "{name}";
+	theme: "./base16.rasi";
+	display-window: "  ";
+	display-run: " ";
+	display-drun: "  ";
+}
